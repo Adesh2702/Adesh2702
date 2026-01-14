@@ -26,6 +26,7 @@ Let’s build, learn, and grow together — one repo at a time.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ## 📌 Featured Projects
 🔹 **Netflix Movie Data Analysis**  
