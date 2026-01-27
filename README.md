@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Adesh Dakhore!
 
 Welcome to my little corner of GitHub 🚀  
-I’m passionate about *Data Analytics,python, Sql, PowerBi, Excel and turning raw data into meaningfull insights*.
+I’m passionate about *Data Analytics, python, Sql, PowerBi, Excel and turning raw data into meaningfull insights*.
 
 Here you’ll find:
 - 📊 Data analysis & visualization projects  
