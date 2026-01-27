@@ -29,11 +29,14 @@ Let’s build, learn, and grow together — one repo at a time.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ## 📌 Featured Projects
-🔹 **Netflix Movie Data Analysis**  
-📊 Exploratory data analysis on 9,800+ Netflix movies  
+
+🔹 Netflix Movie Data Analysis
+📊 Exploratory data analysis on 9,800+ Netflix movies
+🛠️ Tools: Python, Pandas, Matplotlib, Seaborn
 🔗 https://github.com/Adesh2702/Netflix-Movie-Analysis
 
 🔹 E-Commerce Sales Dashboard (Power BI)
 📈 Interactive Power BI dashboard analyzing e-commerce sales performance
-📊 Key insights on revenue, profit, category-wise sales, customer trends & KPIs
-🛠️ Built using Power BI, Excel & SQL for real-world business decision making
+📊 Insights on revenue, profit, category-wise sales, customer trends & KPIs
+🛠️ Tools: Power BI, Excel, SQL
+🔗 https://github.com/Adesh2702/E-Commerce-Sales-Dashboard-PowerBI
