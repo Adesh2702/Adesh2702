@@ -30,7 +30,7 @@ Let’s build, learn, and grow together — one repo at a time.
 
 ## 📌 Featured Projects
 
-🔹 Netflix Movie Data Analysis
+🔹 Netflix Movie Data Analysis: 
 📊 Exploratory data analysis on 9,800+ Netflix movies
 🛠️ Tools: Python, Pandas, Matplotlib, Seaborn
 🔗 https://github.com/Adesh2702/Netflix-Movie-Analysis
