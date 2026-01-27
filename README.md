@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Adesh Dakhore!
 
 Welcome to my little corner of GitHub 🚀  
-I’m passionate about *Data Analytics, Python, Sql, PowerBi, Excel and turning raw data into meaningful insights*.
+I’m passionate about *Data Analytics,python, Sql, PowerBi, Excel and turning raw data into meaningfull insights*.
 
 Here you’ll find:
 - 📊 Data analysis & visualization projects  
@@ -30,7 +30,13 @@ Let’s build, learn, and grow together — one repo at a time.
 
 ## 📌 Featured Projects
 
-🔹 Netflix Movie Data Analysis: 
+🔹 Netflix Movie Data Analysis.
 📊 Exploratory data analysis on 9,800+ Netflix movies
 🛠️ Tools: Python, Pandas, Matplotlib, Seaborn
 🔗 https://github.com/Adesh2702/Netflix-Movie-Analysis
+
+🔹 E-Commerce Sales Dashboard (Power BI)
+📈 Interactive Power BI dashboard analyzing e-commerce sales performance
+📊 Insights on revenue, profit, category-wise sales, customer trends & KPIs
+🛠️ Tools: Power BI, Excel, SQL
+🔗 https://github.com/Adesh2702/E-Commerce-Sales-Dashboard-PowerBI
