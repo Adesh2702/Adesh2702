@@ -32,3 +32,8 @@ Let’s build, learn, and grow together — one repo at a time.
 🔹 **Netflix Movie Data Analysis**  
 📊 Exploratory data analysis on 9,800+ Netflix movies  
 🔗 https://github.com/Adesh2702/Netflix-Movie-Analysis
+
+🔹 E-Commerce Sales Dashboard (Power BI)
+📈 Interactive Power BI dashboard analyzing e-commerce sales performance
+📊 Key insights on revenue, profit, category-wise sales, customer trends & KPIs
+🛠️ Built using Power BI, Excel & SQL for real-world business decision making
