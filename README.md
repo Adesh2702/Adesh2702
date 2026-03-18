@@ -46,3 +46,9 @@ Let’s build, learn, and grow together — one repo at a time.
 📈 Generated insights like total revenue, top-selling pizzas, category-wise performance, and order trends
 🛠️ Tools: SQL (MySQL/PostgreSQL), CSV Datasets, Database Design (ER Diagram)
 🔗 https://github.com/Adesh2702/Dominos-SQL-Project
+
+🔹 Mobile App User Engagement Analysis
+📊 Exploratory data analysis of mobile app user behavior including session duration, churn risk, push notification interactions, and user engagement metrics
+📈 Visualized trends across subscriptions, countries, age groups, device types, and app versions to understand user activity patterns
+🛠️ Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+🔗 https://github.com/your-username/mobile-app-user-engagement-analysis
