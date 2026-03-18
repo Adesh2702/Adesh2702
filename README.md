@@ -40,3 +40,9 @@ Let’s build, learn, and grow together — one repo at a time.
 📊 Insights on revenue, profit, category-wise sales, customer trends & KPIs
 🛠️ Tools: Power BI, Excel, SQL
 🔗 https://github.com/Adesh2702/E-Commerce-Sales-Dashboard-PowerBI
+
+🔹 Dominos SQL Data Analysis Project
+📊 End-to-end SQL analysis on pizza sales dataset with multiple relational tables (orders, pizzas, order details, pizza types)
+📈 Generated insights like total revenue, top-selling pizzas, category-wise performance, and order trends
+🛠️ Tools: SQL (MySQL/PostgreSQL), CSV Datasets, Database Design (ER Diagram)
+🔗 
