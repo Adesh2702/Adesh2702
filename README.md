@@ -30,24 +30,24 @@ Let’s build, learn, and grow together — one repo at a time.
 
 ## 📌 Featured Projects
 
-🔹 Netflix Movie Data Analysis.
+##🔹 Netflix Movie Data Analysis.
 📊 Exploratory data analysis on 9,800+ Netflix movies
 🛠️ Tools: Python, Pandas, Matplotlib, Seaborn
 🔗 https://github.com/Adesh2702/Netflix-Movie-Analysis
 
-🔹 E-Commerce Sales Dashboard (Power BI)
+##🔹 E-Commerce Sales Dashboard (Power BI)
 📈 Interactive Power BI dashboard analyzing e-commerce sales performance
 📊 Insights on revenue, profit, category-wise sales, customer trends & KPIs
 🛠️ Tools: Power BI, Excel, SQL
 🔗 https://github.com/Adesh2702/E-Commerce-Sales-Dashboard-PowerBI
 
-🔹 Dominos SQL Data Analysis Project
+##🔹 Dominos SQL Data Analysis Project
 📊 End-to-end SQL analysis on pizza sales dataset with multiple relational tables (orders, pizzas, order details, pizza types)
 📈 Generated insights like total revenue, top-selling pizzas, category-wise performance, and order trends
 🛠️ Tools: SQL (MySQL/PostgreSQL), CSV Datasets, Database Design (ER Diagram)
 🔗 https://github.com/Adesh2702/Dominos-SQL-Project
 
-🔹 Mobile App User Engagement Analysis
+##🔹 Mobile App User Engagement Analysis
 📊 Exploratory data analysis of mobile app user behavior including session duration, churn risk, push notification interactions, and user engagement metrics
 📈 Visualized trends across subscriptions, countries, age groups, device types, and app versions to understand user activity patterns
 🛠️ Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
