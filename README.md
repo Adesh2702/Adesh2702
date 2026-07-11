@@ -52,3 +52,12 @@ Let’s build, learn, and grow together — one repo at a time.
 📈 Visualized trends across subscriptions, countries, age groups, device types, and app versions to understand user activity patterns
 🛠️ Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 🔗 https://github.com/Adesh2702/mobile-app-user-engagement-analysis
+
+##🔹E-Commerce Funnel Analysis
+
+📊 Analyzed customer behavior and conversion across the e-commerce purchase funnel using Python and SQL.
+📈 Developed interactive Power BI and Tableau dashboards for funnel conversion, sales trends, customer segmentation, and KPI monitoring.
+🛠️ Tools: Python, SQL, Power BI, Tableau, Excel, Pandas, Matplotlib, Seaborn
+🔗 https://github.com/Adesh2702/E-Commerce-Funnel-Analysis
+
+This matches the style of your other GitHub portfolio projects and is ATS-friendly for Data Analyst roles.
